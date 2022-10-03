@@ -1,0 +1,51 @@
+#col1{
+   
+    background-color: rgb(214, 105, 33);
+    height:300px;
+    text-align: center;
+    padding-top:80px;
+}
+
+#col2{
+   
+    background-color: rgb(36, 127, 163);
+    height:300px;
+    text-align: center;
+    padding-top:80px;
+}
+
+
+#col3{
+   
+    background-color: rgb(72, 37, 117);
+    height:300px;
+    text-align: center;
+    padding-top:80px;
+}
+
+
+
+img{
+    width:100px;
+    height:100px;
+}
+
+#buscar{
+    margin-left: 450px;;
+}
+
+#text{
+    border-right: solid grey 1px;
+    border-left: solid grey 1px;
+    border-bottom: solid grey 1px;
+}
+
+#but{
+    color:green;
+    background-color: aliceblue;
+}
+
+#but2{
+    background-color:rgb(40, 40, 255);
+    color: aliceblue;
+}
